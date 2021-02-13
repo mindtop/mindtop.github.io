@@ -1,2 +1,1 @@
-www.appishare.cn
-appishare.cn
+www.appishare.cn,appishare.cn
